@@ -33,6 +33,5 @@ function moveRobot(event) {
             return;
     }
 }
-console.log(robot);
 
 window.addEventListener('keydown', moveRobot)
